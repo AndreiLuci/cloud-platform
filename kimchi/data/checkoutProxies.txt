@@ -1,0 +1,11 @@
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
+ip:port@user:pass
